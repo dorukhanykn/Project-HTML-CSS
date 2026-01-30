@@ -156,3 +156,108 @@ a:hover{
     margin-top: 25vh;
     margin-left: 10vw;
 }
+@media screen and (max-width: 600px) {
+    *{
+        font-size: 12px;
+    }
+    #b1{
+        font-size: 12px;
+    }
+     #b2{
+        font-size: 12px;
+    }
+     #b3{
+        font-size: 12px;
+    }
+     #b4{
+        font-size: 10px;
+    }
+    nav{
+        visibility: hidden;
+    }
+    #logo{
+        width: 30vw;
+
+    }
+    #iform{
+        width: 40vw;
+    }
+    #g1{
+        visibility: hidden;
+    }
+   body {
+  background: linear-gradient(135deg, 
+    #ffffff 0%,      /* Beyaz */
+    #ff7f50 30%,     /* Kapalı turuncu (coral) */
+    #1e90ff 70%,     /* Mavi (dodgerblue) */
+    #000080 100%     /* Daha koyu mavi (navy) */
+  );
+}
+#g2{
+    visibility: hidden;
+}
+#ip2{
+    visibility: hidden;
+}
+#blue{
+    height: 10vh;
+    margin-top: 26vh;
+    margin-right: 5vw;
+}
+}
+@media (max-width: 730px ) and (min-width: 600px) {
+    nav{
+        visibility: hidden;
+    }
+    #g2{
+        visibility: hidden;
+    }
+    #b4{
+        font-size: 15px;
+    }
+    #ip2{
+        visibility: hidden;
+    }
+    #logo{
+        width: 30vw;
+
+    }
+    #iform{
+        width: 40vw;
+        margin-top: 1vh;
+    }
+#blue{
+    margin-top: 8vw;
+    height: 8vh;
+}
+}
+@media (min-width: 731px) and (max-width: 1024px){
+    nav{
+        visibility: hidden;
+    }
+    #g2{
+        visibility: hidden;
+    }
+    #b4{
+        font-size: 15px;
+    }
+    #ip2{
+        visibility: hidden;
+    }
+    #logo{
+        width: 30vw;
+
+    }
+    #iform{
+        width: 40vw;
+        margin-top: 1vh;
+    }
+#blue{
+    margin-top: 14vh;
+    height: 8vh;
+}
+#p1{
+    width: 40vw;
+    margin-left: 5px;
+}
+}
