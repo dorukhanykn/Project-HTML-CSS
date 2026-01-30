@@ -1,0 +1,158 @@
+
+header{
+    display: flex;
+    margin-left: 4%;
+    width: 6vw;
+    height: 3vh;
+   /* margin-top: 2%;*/
+}
+nav{
+    display: flex;
+   /* flex: 1; */
+    margin-left: 40vw;
+    width: 40vw;
+}
+#g1{
+    width: 80vw;
+    margin-left: 10%;
+    position: absolute;
+    margin-top: 24%;
+    height: 40vh;
+}
+#ip{
+    margin-top: 4%;
+    margin-left: 24%;
+    color: #18265B;
+    font-size: 18px;
+    font-weight: 400;
+}
+#p1{
+    width: 52vw;
+    text-align: center;
+    line-height: 3.2vh;
+}
+#baslik{
+    width: 38vw;
+    text-align: center;
+    margin-top: 8vh;
+}
+#blue{
+    margin-top: 18%;
+    width: 100vw;
+}
+#bs{
+    width: 18vw;
+    margin-left: 43%;
+    display: flex;
+    flex-direction: column;
+    height: 25vh;
+    margin-top: 2%;
+    color: #18265B;
+    font-size: 18px;
+    font-weight: 400;
+}
+#b1{
+    box-sizing: border-box;
+    height: 20%;
+    margin-bottom: 5%;
+   background-color: #0076FF;
+   color: white;
+   border-radius: 5px;
+   border: transparent;
+   font-size: 16px;
+   font-weight: 400;
+}
+#b2{
+    box-sizing: border-box;
+    height: 20%;
+    margin-bottom: 5%;
+   background-color:#3C5999 ;
+   color: white;
+   border-radius: 5px;
+   border: transparent;
+   font-size: 16px;
+   font-weight: 400;
+}
+#b3{
+    box-sizing: border-box;
+    height: 20%;
+    margin-bottom: 5%;
+    background-color:#F88B37;
+    color: white;
+    border-radius: 5px;
+    border: transparent;
+    font-size: 16px;
+    font-weight: 400;
+}
+#b4{
+    box-sizing: border-box;
+    height: 20%;
+    background-attachment: white;
+    color: black;
+    border-radius: 5px;
+    border: transparent;
+    font-size: 16px;
+    font-weight: 400;
+}
+#cbk{
+    margin-top: 2.4vh;
+  margin-left: 8%;  
+  width: 2px;
+  height: 3vh;
+}
+#iform{
+    margin-left: 2vw;
+    display: inline-block;
+    width: 10vw;
+    margin-top: 3vh;
+}
+#f{
+    display: flex;
+    width: 25vw;
+}
+.a{
+    color: #161F52;
+    margin-top: 3.2vh;
+    margin-right: 2vw;
+    width: 3.2vw;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+#su{
+    margin-right: 10vw;
+    background-color: #ff6100;
+    color: white;
+    padding-left: 1.5vw;
+    padding-right: 1.5vw;
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+    height: 4vh;
+    border-radius: 5px;
+    width: 7vw;
+    transform: rotate(2deg);
+    margin-top: -0.02vh;
+    font-size: 16px;
+}
+#logo{
+    margin-top: 2vh;
+    width: 10vw;
+    height: 3vh;
+}
+a:hover{
+    color: #2680EB;
+    text-decoration: underline;
+}
+#g2{
+    margin-top: 8vh;
+}
+#fl{
+    display: flex;
+}
+#ip2{
+    color: #18265B;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 25vh;
+    margin-left: 10vw;
+}
